@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="UnitFramework.TestCases.GoogleTest.openHomePageTest" /><Add Test="UnitFramework.TestCases.GoogleTest.getTitleTest" /></Playlist>

@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="UnitFramework.TestCases.VehicleModelTest.TestMethod1" /><Add Test="UnitFramework.CalcTest.multiplyTest" /><Add Test="UnitFramework.CalcTestSimple.addTest" /><Add Test="UnitFramework.CalcTest.subtractTest" /><Add Test="UnitFramework.CalcTest.addTest" /><Add Test="UnitFramework.CalcTest.divideTest" /></Playlist>
